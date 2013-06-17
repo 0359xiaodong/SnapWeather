@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="gray">#ff252525</item>
+    <item type="drawable" name="blank">#00000000</item>
+    <item type="drawable" name="halfsnow">#7ffffafa</item>
+    <item type="drawable" name="widgettext">#ff636363</item>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">SnapWeather</string>
+    <string name="action_location">Location</string>
+    <string name="fr_location_add">Add Location</string>
+    <string name="fr_location_management">LOCATION MANAGEMENT</string>
+    <string name="fr_page_today_temp"><xliff:g id="temp" example="0">%d</xliff:g>°</string>
+    <string name="fr_page_low_high_temp">L:<xliff:g id="low_temp">%1$d</xliff:g>°\t\tH:<xliff:g id="high_temp">%2$d</xliff:g>°</string>
+    <string name="fr_location_search_result">SEARCH RESULT</string>
+</resources>
