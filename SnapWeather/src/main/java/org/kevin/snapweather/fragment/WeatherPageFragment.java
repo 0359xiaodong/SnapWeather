@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import org.kevin.snapweather.R;
+import org.kevin.snapweather.api.CityApi;
 import org.kevin.snapweather.api.WeatherApi;
 import org.kevin.snapweather.model.Forecast;
 import org.kevin.snapweather.model.WeatherForecast;
@@ -58,6 +59,7 @@ public class WeatherPageFragment extends Fragment {
         mWindDirectIcon = (ImageView)view.findViewById(R.id.weather_wind_direct_icon);
         Log.d(TAG,"city : "+mWeatherCity);
         WeatherApi.getWeatherForecast(mHandler,mWeatherCity,"zh_cn",14);
+        CityApi.searchCity(mHandler, "ShenZhen");
         return view;
     }
 

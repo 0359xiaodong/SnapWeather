@@ -31,6 +31,7 @@ import java.util.concurrent.Future;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.zip.GZIPInputStream;
 
+import android.util.Log;
 import org.apache.http.Header;
 import org.apache.http.HeaderElement;
 import org.apache.http.HttpEntity;
@@ -573,7 +574,8 @@ public class AsyncHttpClient {
 
     public static String getUrlWithQueryString(String url, RequestParams params) {
         if(params != null) {
-            String paramString = params.getParamString();
+            //the space will encode to +,replace + to %20
+            String paramString = params.getParamString().replaceAll("\\+","%20");
             if (url.indexOf("?") == -1) {
                 url += "?" + paramString;
             } else {

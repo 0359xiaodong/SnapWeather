@@ -30,7 +30,7 @@ public class RestClient {
         client.delete(getAbsoluteUrl(url), responseHandler);
     }
     private static String getAbsoluteUrl(String relativeUrl) {
-        if(relativeUrl.startsWith(base_url)){
+        if(relativeUrl.startsWith("http")){
             return relativeUrl;
         }
         String url = base_url + relativeUrl;

@@ -47,6 +47,7 @@ public class WeatherLocationFragment extends Fragment implements View.OnClickLis
         mCityList = (ListView)view.findViewById(R.id.fr_list_city);
         mBack.setOnClickListener(this);
         mSearch.setOnClickListener(this);
+        mSearch.setEnabled(false);
         mInput.setOnFocusChangeListener(new View.OnFocusChangeListener() {
             @Override
             public void onFocusChange(View v, boolean hasFocus) {
@@ -70,10 +71,12 @@ public class WeatherLocationFragment extends Fragment implements View.OnClickLis
     }
     private void refreshViews(){
         if (isAddMode){
+            mSearch.setEnabled(true);
             mCityLayout.setVisibility(View.GONE);
             mSearchResultLayout.setVisibility(View.VISIBLE);
             mBack.setVisibility(View.VISIBLE);
         }else{
+            mSearch.setEnabled(false);
             mInput.setText("");
             mInput.clearFocus();
             mCityLayout.setVisibility(View.VISIBLE);
