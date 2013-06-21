@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,6 +16,7 @@ import org.kevin.snapweather.R;
 import org.kevin.snapweather.api.CityApi;
 import org.kevin.snapweather.model.Place;
 import org.kevin.snapweather.util.Constants;
+import org.kevin.snapweather.util.Log;
 
 import java.util.List;
 
@@ -121,7 +121,7 @@ public class WeatherLocationFragment extends Fragment implements View.OnClickLis
                 case Constants.MSG_SEARCH_CITY:
                     List<Place> places = (List<Place>)msg.obj;
                     if (places.size()>0){
-                        Log.d(TAG,places.get(0).admin1.content);
+                        Log.d(TAG, places.get(0).admin1.content);
                     }
                     break;
             }

@@ -1,7 +1,6 @@
 package org.kevin.snapweather.api;
 
 import android.os.Handler;
-import android.util.Log;
 
 import org.kevin.snapweather.model.WeatherForecast;
 import org.kevin.snapweather.model.WeatherToday;
@@ -10,6 +9,7 @@ import org.kevin.snapweather.net.RequestParams;
 import org.kevin.snapweather.rest.RestClient;
 import org.kevin.snapweather.util.Constants;
 import org.kevin.snapweather.util.JsonParser;
+import org.kevin.snapweather.util.Log;
 
 /**
  * Created by thinkfeed#gmail.com on 13-5-17.
@@ -31,7 +31,7 @@ public class WeatherApi {
 
             @Override
             public void onSuccess(int statusCode, String content) {
-                Log.d(TAG,content);
+                Log.d(TAG, content);
                 WeatherToday today = JsonParser.fromJsonObject(content,WeatherToday.class);
                 handler.obtainMessage(Constants.MSG_WEATHER_TODAY,today).sendToTarget();
             }

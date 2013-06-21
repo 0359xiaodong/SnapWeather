@@ -1,7 +1,6 @@
 package org.kevin.snapweather.api;
 
 import android.os.Handler;
-import android.util.Log;
 import com.google.gson.reflect.TypeToken;
 import org.json.JSONArray;
 import org.json.JSONException;

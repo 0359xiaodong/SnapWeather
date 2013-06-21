@@ -4,21 +4,19 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import org.kevin.snapweather.R;
-import org.kevin.snapweather.api.CityApi;
 import org.kevin.snapweather.api.WeatherApi;
 import org.kevin.snapweather.model.Forecast;
 import org.kevin.snapweather.model.WeatherForecast;
-import org.kevin.snapweather.model.WeatherToday;
 import org.kevin.snapweather.util.Constants;
 import org.kevin.snapweather.util.DateFormatter;
 import org.kevin.snapweather.util.IconUtil;
+import org.kevin.snapweather.util.Log;
 
 import java.util.List;
 
@@ -57,7 +55,7 @@ public class WeatherPageFragment extends Fragment {
         mWindSpeed = (TextView)view.findViewById(R.id.weather_wind_speed);
         mWindDirect = (TextView)view.findViewById(R.id.weather_wind_direct);
         mWindDirectIcon = (ImageView)view.findViewById(R.id.weather_wind_direct_icon);
-        Log.d(TAG,"city : "+mWeatherCity);
+        Log.d(TAG, "city : " + mWeatherCity);
         WeatherApi.getWeatherForecast(mHandler,mWeatherCity,"zh_cn",14);
         return view;
     }

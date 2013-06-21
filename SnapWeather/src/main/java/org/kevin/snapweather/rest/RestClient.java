@@ -1,9 +1,9 @@
 package org.kevin.snapweather.rest;
 
-import android.util.Log;
 import org.kevin.snapweather.net.AsyncHttpClient;
 import org.kevin.snapweather.net.AsyncHttpResponseHandler;
 import org.kevin.snapweather.net.RequestParams;
+import org.kevin.snapweather.util.Log;
 
 /**
  * Created by thinkfeeed#gmail.com on 13-5-17.
