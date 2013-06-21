@@ -2,10 +2,20 @@ package org.kevin.snapweather.api;
 
 import android.os.Handler;
 import android.util.Log;
+import com.google.gson.reflect.TypeToken;
+import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
+import org.kevin.snapweather.model.Place;
 import org.kevin.snapweather.net.AsyncHttpResponseHandler;
 import org.kevin.snapweather.net.RequestParams;
 import org.kevin.snapweather.rest.RestClient;
+import org.kevin.snapweather.util.Constants;
+import org.kevin.snapweather.util.JsonParser;
+
+import java.lang.reflect.Type;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by think on 13-6-20.
@@ -22,7 +32,15 @@ public class CityApi {
         RestClient.get(SEARCH_CITY_URL,params,new AsyncHttpResponseHandler(){
             @Override
             public void onSuccess(int statusCode, String content) {
-                Log.d(TAG,content);
+                try {
+                    JSONArray jsonPlace = new JSONObject(content).optJSONObject("query").optJSONObject("results").optJSONArray("place");
+                    List<Place> places = new ArrayList<Place>();
+                    Type type = new TypeToken<List<Place>>(){}.getType();
+                    places = JsonParser.fromJsonArray(jsonPlace.toString(),type);
+                    handler.obtainMessage(Constants.MSG_SEARCH_CITY,places).sendToTarget();
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
             }
         });
     }

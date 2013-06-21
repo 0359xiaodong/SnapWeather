@@ -59,7 +59,6 @@ public class WeatherPageFragment extends Fragment {
         mWindDirectIcon = (ImageView)view.findViewById(R.id.weather_wind_direct_icon);
         Log.d(TAG,"city : "+mWeatherCity);
         WeatherApi.getWeatherForecast(mHandler,mWeatherCity,"zh_cn",14);
-        CityApi.searchCity(mHandler, "ShenZhen");
         return view;
     }
 

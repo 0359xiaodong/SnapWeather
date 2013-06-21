@@ -6,4 +6,5 @@ package org.kevin.snapweather.util;
 public class Constants {
     public static final int MSG_WEATHER_TODAY = 0;
     public static final int MSG_WEATHER_FORECAST = 1;
+    public static final int MSG_SEARCH_CITY = 2;
 }

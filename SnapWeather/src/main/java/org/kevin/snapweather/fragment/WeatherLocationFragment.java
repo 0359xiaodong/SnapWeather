@@ -3,7 +3,10 @@ package org.kevin.snapweather.fragment;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,11 +14,17 @@ import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.*;
 import org.kevin.snapweather.R;
+import org.kevin.snapweather.api.CityApi;
+import org.kevin.snapweather.model.Place;
+import org.kevin.snapweather.util.Constants;
+
+import java.util.List;
 
 /**
  * Created by thinkfeed#gmail.com on 13-5-24.
  */
 public class WeatherLocationFragment extends Fragment implements View.OnClickListener {
+    protected static final String TAG = WeatherLocationFragment.class.getSimpleName();
     private ImageView mBack;
     private ImageView mSearch;
     private LinearLayout mInputLayout;
@@ -99,9 +108,23 @@ public class WeatherLocationFragment extends Fragment implements View.OnClickLis
                 hideInputMethod(mBack);
                 break;
             case R.id.fr_search:
-
+                CityApi.searchCity(mHandler, "ShenZhen");
                 break;
 
         }
     }
+    private Handler mHandler = new Handler(){
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            switch (msg.what){
+                case Constants.MSG_SEARCH_CITY:
+                    List<Place> places = (List<Place>)msg.obj;
+                    if (places.size()>0){
+                        Log.d(TAG,places.get(0).admin1.content);
+                    }
+                    break;
+            }
+        }
+    };
 }
