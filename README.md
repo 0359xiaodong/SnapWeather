@@ -4,7 +4,7 @@ SnapWeather
 开源天气，遵循Android design，天气源由openweathermap提供，基于Android 4.2开发
 
 License
-Copyright 2013 Chris Banes
+Copyright 2013 kevin cao
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
