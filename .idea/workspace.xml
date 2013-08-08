@@ -44,68 +44,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432bed07-3d79-48d2-8c00-a1b62838b77b" name="Default" comment="upload the app framework">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/api/CityApi.java" afterPath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/api/CityApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/rest/RestClient.java" afterPath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/rest/RestClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/api/WeatherApi.java" afterPath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/api/WeatherApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherLocationFragment.java" afterPath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherLocationFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherPageFragment.java" afterPath="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherPageFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather-SnapWeather.iml" afterPath="$PROJECT_DIR$/SnapWeather-SnapWeather.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather.iml" afterPath="$PROJECT_DIR$/SnapWeather.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SnapWeather/build.gradle" afterPath="$PROJECT_DIR$/SnapWeather/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SnapWeather.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371711810567" ignored="false" />
-    <file path="/WeatherToday.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368953809029" ignored="false" />
-    <file path="/a.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1370443668693" ignored="false" />
-    <file path="/sample.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369573409430" ignored="false" />
-    <file path="/Dummy.regexp" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368894113085" ignored="false" />
-    <file path="/injection.groovy" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368894102299" ignored="false" />
-    <file path="/JsonParser.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368932004309" ignored="false" />
-    <file path="/JsonUtil.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368944281086" ignored="false" />
-    <file path="/WeatherApi.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369711753577" ignored="false" />
-    <file path="/Dummy.txt" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371794608291" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368950352966" ignored="false" />
-    <file path="/build.gradle" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368948133765" ignored="false" />
-    <file path="/WeatherActivity.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371710164528" ignored="false" />
-    <file path="/CanvasTransformerBuilder.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368958915475" ignored="false" />
-    <file path="/SlidingActivityBase.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368956921799" ignored="false" />
-    <file path="/SlidingActivity.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368957236745" ignored="false" />
-    <file path="/slidingmenumain.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368957462887" ignored="false" />
-    <file path="/CustomViewAbove.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368958987932" ignored="false" />
-    <file path="/CustomViewBehind.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368959062357" ignored="false" />
-    <file path="/SlidingMenu.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368959147139" ignored="false" />
-    <file path="/SlidingFragmentActivity.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368959341205" ignored="false" />
-    <file path="/a.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369559276559" ignored="false" />
-    <file path="/activity_weather.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1368966436437" ignored="false" />
-    <file path="/WeatherPageFragment.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369733018553" ignored="false" />
-    <file path="/fragment_weather_page.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369645051305" ignored="false" />
-    <file path="/weather.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369374347531" ignored="false" />
-    <file path="/strings.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371441165302" ignored="false" />
-    <file path="/color.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371441374031" ignored="false" />
-    <file path="/WeatherLocationFragment.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371785347864" ignored="false" />
-    <file path="/fragment_weather_location.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371451892732" ignored="false" />
-    <file path="/a.dummy" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369493444282" ignored="false" />
-    <file path="/dimens.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369626661897" ignored="false" />
-    <file path="/RequestParams.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371713213799" ignored="false" />
-    <file path="/WeatherForecast.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369711502431" ignored="false" />
-    <file path="/City.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369709216063" ignored="false" />
-    <file path="/Forecast.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369723139186" ignored="false" />
-    <file path="/temp.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369710873221" ignored="false" />
-    <file path="/Temp.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369711085208" ignored="false" />
-    <file path="/Constants.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371784827966" ignored="false" />
-    <file path="/DateFormatter.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369723282376" ignored="false" />
-    <file path="/Clounds.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369723526004" ignored="false" />
-    <file path="/Sys.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369723593247" ignored="false" />
-    <file path="/Wind.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369723620910" ignored="false" />
-    <file path="/IconUtil.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1369731999870" ignored="false" />
-    <file path="/btn_search_selector.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371438893090" ignored="false" />
-    <file path="/list_selector.xml" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371445717651" ignored="false" />
-    <file path="/CityApi.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371784855443" ignored="false" />
-    <file path="/AsyncHttpClient.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371714789047" ignored="false" />
-    <file path="/SearchCity.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371782527165" ignored="false" />
-    <file path="/Place.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371784084376" ignored="false" />
-    <file path="/Country.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371783680890" ignored="false" />
-    <file path="/Level.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371783936200" ignored="false" />
-    <file path="/Log.java" changelist="432bed07-3d79-48d2-8c00-a1b62838b77b" time="1371794520185" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +74,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -165,6 +110,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
@@ -180,17 +126,7 @@
     <favorites_list name="SnapWeather" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Log.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/util/Log.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="19" selection-start="172" selection-end="172" vertical-scroll-proportion="0.22818792">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -214,9 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/SnapWeather/src/main/res/drawable/list_selector.xml" />
-        <option value="$PROJECT_DIR$/SnapWeather/src/main/res/layout/fragment_weather_location.xml" />
-        <option value="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/WeatherActivity.java" />
         <option value="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/net/RequestParams.java" />
         <option value="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/net/AsyncHttpClient.java" />
         <option value="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/model/SearchCity.java" />
@@ -230,6 +163,9 @@
         <option value="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherLocationFragment.java" />
         <option value="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherPageFragment.java" />
         <option value="$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/util/Log.java" />
+        <option value="$PROJECT_DIR$/local.properties" />
+        <option value="$PROJECT_DIR$/SnapWeather/build.gradle" />
+        <option value="$PROJECT_DIR$/SnapWeather.iml" />
       </list>
     </option>
   </component>
@@ -247,10 +183,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1320" />
-    <option name="height" value="784" />
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="690" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -302,6 +237,26 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SnapWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SnapWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SnapWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Production">
@@ -337,205 +292,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snapweather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snapweather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snapweather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnapWeather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snapweather" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="appearance" />
+    <property name="options.lastSelected" value="reference.projectsettings.compiler.excludes" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/SnapWeather/libs/gson-2.2.2.jar!/" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0123456789ABCDEF" />
@@ -543,11 +310,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android4.2" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -571,24 +338,6 @@
       <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -609,6 +358,24 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -794,30 +561,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="690" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.6704" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32807016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25477707" sideWeight="0.6704" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29473683" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.296" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7584" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29473683" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.75789475" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6704" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18471338" sideWeight="0.6704" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.39968154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33041403" sideWeight="0.2416" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298217" sideWeight="0.70526314" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.6704" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25477707" sideWeight="0.6704" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.672" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -829,12 +597,12 @@
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25557324" sideWeight="0.2384" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -913,118 +681,116 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/net/AsyncHttpRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="6" selection-start="1142" selection-end="1142" vertical-scroll-proportion="0.02915952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/model/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="143" selection-end="143" vertical-scroll-proportion="0.19932999" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/net/AsyncHttpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="576" column="57" selection-start="26054" selection-end="26054" vertical-scroll-proportion="0.02915952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/model/Level.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="28" selection-start="349" selection-end="349" vertical-scroll-proportion="0.39932886">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/model/WeatherToday.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="209" selection-end="209" vertical-scroll-proportion="0.19966443" />
+        <state line="10" column="13" selection-start="209" selection-end="209" vertical-scroll-proportion="0.19966443" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/model/Place.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="192" selection-end="192" vertical-scroll-proportion="0.22818792" />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/sdk/sources/android-17/android/util/Log.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="19" selection-start="1985" selection-end="1985" vertical-scroll-proportion="0.99142367">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SnapWeather/build/source/buildConfig/debug/org/kevin/snapweather/BuildConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="32" selection-start="148" selection-end="148" vertical-scroll-proportion="0.11409396">
-          <folding />
-        </state>
+        <state line="8" column="27" selection-start="192" selection-end="192" vertical-scroll-proportion="0.22818792" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/util/JsonParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.11409396">
+        <state line="7" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.11409396" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/util/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="47" selection-start="268" selection-end="268" vertical-scroll-proportion="0.22818792">
+        <state line="8" column="47" selection-start="268" selection-end="268" vertical-scroll-proportion="0.22818792" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/api/WeatherApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="17" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.8747856">
+        <state line="33" column="17" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.8747856" vertical-offset="0" max-vertical-offset="0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/api/CityApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="87" selection-end="87" vertical-scroll-proportion="-0.26243567">
+        <state line="3" column="24" selection-start="87" selection-end="87" vertical-scroll-proportion="-0.26243567" vertical-offset="0" max-vertical-offset="0">
           <folding>
-            <element signature="e#1482#1489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherPageFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="22" selection-start="693" selection-end="693" vertical-scroll-proportion="0.5831904">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherLocationFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="25" selection-start="4654" selection-end="4654" vertical-scroll-proportion="2.0497427">
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1482#1489#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/rest/RestClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="9" selection-start="1442" selection-end="1442" vertical-scroll-proportion="1.0497427">
+        <state line="36" column="9" selection-start="1442" selection-end="1442" vertical-scroll-proportion="1.0497427" vertical-offset="0" max-vertical-offset="0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/util/Log.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="172" selection-end="172" vertical-scroll-proportion="0.22818792">
+        <state line="8" column="19" selection-start="172" selection-end="172" vertical-scroll-proportion="0.027675277" vertical-offset="105" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherLocationFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="25" selection-start="4654" selection-end="4654" vertical-scroll-proportion="3.0747921" vertical-offset="360" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="542">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SnapWeather/src/main/java/org/kevin/snapweather/fragment/WeatherPageFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="69" selection-start="3604" selection-end="3604" vertical-scroll-proportion="0.84210527" vertical-offset="671" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="40" selection-start="430" selection-end="430" vertical-scroll-proportion="0.36096257" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SnapWeather-SnapWeather.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="46" selection-start="357" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SnapWeather/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="55" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SnapWeather.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="52" selection-start="517" selection-end="517" vertical-scroll-proportion="0.3321033" vertical-offset="0" max-vertical-offset="542">
           <folding />
         </state>
       </provider>
@@ -1046,7 +812,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Android (SnapWeather-SnapWeather)|Android</last-edited>
+          <last-edited>Android-Gradle (SnapWeather-SnapWeather)|Android-Gradle</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1094,7 +860,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>android-support-v4</last-edited>
+          <last-edited>gson-v2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
